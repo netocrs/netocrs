@@ -9,7 +9,7 @@
 -->
 
 <div align="center">  
-<img src="https://github-readme-stats.vercel.app/api?username=netocrs&show_icons=true&count_private=true&locale=en" alt="netocrs" />
+<img src="https://github-readme-stats.vercel.app/api?username=netocrs&show_icons=true&count_private=false&locale=en" alt="netocrs" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=netocrs&show_icons=true&locale=en&layout=compact" alt="netocrs" />
 </div>
 

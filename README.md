@@ -31,7 +31,8 @@
       </td>
       <td align="center" width="80
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=javascript" width="43" height="43" alt="JavaScript" />
+          <!-- <img src="https://skillicons.dev/icons?i=javascript" width="43" height="43" alt="JavaScript" /> -->
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="43" height="43" alt="javascript" />
         </a>
         <br>JavaScript
       </td>

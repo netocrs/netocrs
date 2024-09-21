@@ -26,7 +26,9 @@
         <br>Python
       </td>
       <td align="center" width="80">
+         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" >
         <img src="https://skillicons.dev/icons?i=javascript" width="43" height="43" alt="JavaScript" />
+         </a>
         <br>JavaScript
       </td>
       <td align="center" width="80">
@@ -91,6 +93,7 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
         <br>Git
       </td>
+      <td colspan="3"></td> <!-- Empty space to maintain row structure -->
     </tr>
   </table>
 </p>

@@ -30,7 +30,7 @@
         <br>Python
       </td>
       <td align="center" width="80
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" >
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
           <img src="https://skillicons.dev/icons?i=javascript" width="43" height="43" alt="JavaScript" />
         </a>
         <br>JavaScript

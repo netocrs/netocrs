@@ -13,7 +13,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=netocrs&show_icons=true&locale=en&layout=compact" alt="netocrs" />
 </div>
 
-<h3 align="left">Languages and Tools 🛠️</h3>
+<h3 align="left">Languages, Tools and Frameworks 🛠️</h3>
 <p align="center">
   <table align="center">
     <tr>
